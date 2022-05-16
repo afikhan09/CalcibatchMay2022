@@ -1,3 +1,2 @@
 Public interface IResult{
-
 }
